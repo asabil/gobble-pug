@@ -1,0 +1,29 @@
+{
+  "name": "gobble-pug",
+  "version": "0.1.0",
+  "description": "Compile Pug (Jade) templates with gobble",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asabil/gobble-pug.git"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "jade",
+    "pug",
+    "template",
+    "templating"
+  ],
+  "author": "Ali Sabil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asabil/gobble-pug/issues"
+  },
+  "homepage": "https://github.com/asabil/gobble-pug#readme",
+  "devDependencies": {
+    "pug": "^2.0.0-alpha7"
+  }
+}
