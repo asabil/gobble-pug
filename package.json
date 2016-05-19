@@ -1,6 +1,6 @@
 {
   "name": "gobble-pug",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile Pug (Jade) templates with gobble",
   "files": [
     "index.js"
@@ -23,7 +23,7 @@
     "url": "https://github.com/asabil/gobble-pug/issues"
   },
   "homepage": "https://github.com/asabil/gobble-pug#readme",
-  "devDependencies": {
+  "dependencies": {
     "pug": "^2.0.0-alpha7"
   }
 }
